@@ -1,0 +1,67 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/0.37dad51e5b5d86ee0b49.chunk.js",
+        "/1.8800ecee4261ca562a92.chunk.js",
+        "/2.3c49281fc24f42cf4b29.chunk.js",
+        "/inline.2f34253d9d830309a56f.bundle.js",
+        "/main.aa472ab0b3540e9fd0e0.bundle.js",
+        "/polyfills.a7098b48bd3a3816e920.bundle.js",
+        "/styles.12038755ad5353e84e99.bundle.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/images/book/book.jpg",
+        "/assets/images/food/food.jpg",
+        "/assets/images/movie/movie.jpg",
+        "/assets/images/nearby/nearby.jpg",
+        "/assets/images/shared-images/android/hotel_144.png",
+        "/assets/images/shared-images/android/hotel_192.png",
+        "/assets/images/shared-images/android/hotel_36.png",
+        "/assets/images/shared-images/android/hotel_48.png",
+        "/assets/images/shared-images/android/hotel_512.png",
+        "/assets/images/shared-images/android/hotel_72.png",
+        "/assets/images/shared-images/android/hotel_96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.37dad51e5b5d86ee0b49.chunk.js": "90b400fb49c7469f931799212556541beb4fe753",
+    "/assets/images/book/book.jpg": "f9954c4eee86f323c48e01b697146aeb95c55704",
+    "/1.8800ecee4261ca562a92.chunk.js": "954050ec89ed746d6fa401b9c94d0884ff764c5c",
+    "/assets/images/food/food.jpg": "d450eccc6fc653447b4804d2fb878db9172cec9b",
+    "/2.3c49281fc24f42cf4b29.chunk.js": "26f6516b342cb2c21291d3c2c25d151f973f4280",
+    "/assets/images/movie/movie.jpg": "5c67e3c553f7f09977bef761361fc20eb4530a3b",
+    "/inline.2f34253d9d830309a56f.bundle.js": "021c5fde47a7c7b361321fe3706d6945c5ba81ee",
+    "/assets/images/nearby/nearby.jpg": "263be6a9d06adb5df51c120ac465b06f05a56652",
+    "/main.aa472ab0b3540e9fd0e0.bundle.js": "dca3a8a5ce342c8add23b426d32f387b68425efe",
+    "/assets/images/shared-images/android/hotel_144.png": "e80d27472099a70c68a28a10c9f4b1c24bbcedaa",
+    "/polyfills.a7098b48bd3a3816e920.bundle.js": "adc4a4a64da7d73ed2e92364406c6a101847afac",
+    "/assets/images/shared-images/android/hotel_192.png": "9e64b9b312bff8868ceb2feafa4ab4aaf85233d6",
+    "/styles.12038755ad5353e84e99.bundle.css": "834e7a572ecc022b6740d6dfa5ef2cad04ba1daf",
+    "/assets/images/shared-images/android/hotel_36.png": "6b04f24bcc9582e3ef5f08b80a303603a125caae",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/images/shared-images/android/hotel_48.png": "c1970018a77372338f4dab7b126b4440d33f7670",
+    "/index.html": "e010c8690541705de0db35c66ce4a5549137be3d",
+    "/assets/images/shared-images/android/hotel_512.png": "bb35ad932188a60989f4dcebe7543014712e7811",
+    "/assets/images/shared-images/android/hotel_72.png": "1646611e133504e60719fc4d6676ec7a6ca3328e",
+    "/assets/images/shared-images/android/hotel_96.png": "89a2a4b83562dde2a54bff0d53a6ff1cdb81c581"
+  }
+}

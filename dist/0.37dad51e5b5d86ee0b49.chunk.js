@@ -1,0 +1,1 @@
+webpackJsonp([0],{yxpl:function(n,t,l){"use strict";l.d(t,"a",function(){return a}),t.b=function(n){return e._26(2,[e._14(null,0)],null,null)};var e=l("LMZF"),a=e._2({encapsulation:2,styles:[".mat-icon{background-repeat:no-repeat;display:inline-block;fill:currentColor;height:24px;width:24px}"],data:{}})}});
